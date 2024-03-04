@@ -46,7 +46,7 @@ and then your can init the environment with:
 Now you can start downloading the dependencies of this project by simple typing :
 
 ```bash
-pip install -r requirements.py
+pip install -r requirements.txt
 ```
 
 <hr>
