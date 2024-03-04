@@ -46,7 +46,7 @@ and then :
 Now you can start downloading the dependencies of this project by simple typing :
 
 ```bash
-pip install -r requeriments.py
+pip install -r requirements.py
 ```
 
 <hr>
