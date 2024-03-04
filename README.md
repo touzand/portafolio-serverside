@@ -59,5 +59,5 @@ flask --app __init__ run
 
 So the server will be runing on the port [ http://127.0.0.1:5000/ ](http://127.0.0.1:5000). no you can see it working normally on the front-end of my portafolio. if you still dont have it runing or even know how to isntall it. you can go to [portafolio](https://github.com/touzand/portafolio)
 
-
+> tutorial only for analitic and code reviewers
 
