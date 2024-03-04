@@ -29,7 +29,7 @@ python3 -m venv .venv
 py -3 -m venv .venv
 ```
 
-and then :
+and then your can init the environment with:
 
 
 **macOS / Linux**
