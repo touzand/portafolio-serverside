@@ -17,6 +17,10 @@ app.config['MAIL_DEFAULT_SENDER'] = os.getenv('MAIL_USERNAME')
 
 mail = Mail(app)
 
+@app.route("/")
+def hello():
+    return "<p>yes ... it works</p>"
+
 @app.route("/articles")
 def articles():
     return send_from_directory("static","articles.json")
